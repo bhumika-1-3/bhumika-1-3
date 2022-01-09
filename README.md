@@ -56,3 +56,6 @@ Office Tools<br/><br/>
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
    </h3>
    
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham)](https://git.io/streak-stats)
+ 
+   
