@@ -50,12 +50,32 @@ Version Control<br/><br/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
    
+Hosting<br/><br/>
+   
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+   
 Office Tools<br/><br/>
     
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
    </h3>
    
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham)](https://git.io/streak-stats)
+ <div align='center'>
+ 
+ <h1>📈 GitHub Statistics<h1>
+   
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumika-1-3&theme=gotham&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=600)
+    
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham&hide_border=true&card_width=600&bg_color=0D1117)](https://git.io/streak-stats)
+    
+ <h1>Most Used Languages 👓</h1>
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-1-3&layout=compact&langs_count=5&bg_color=0D1117&hide_title=true&card_width=600&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+ <h1>Contribution Graph</h1>
+    
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhumika-1-3&theme=gotham&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <div/>
  
    
