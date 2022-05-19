@@ -68,8 +68,8 @@ Office Tools<br/><br/>
  <div align='center'>
  
  <h1>📈 GitHub Statistics<h1>
-   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumika-1-3&theme=gotham&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=600)
+<!--    
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumika-1-3&theme=gotham&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&card_width=600) -->
     
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham&hide_border=true&card_width=600&bg_color=0D1117)](https://git.io/streak-stats)
     
