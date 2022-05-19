@@ -73,9 +73,6 @@ Office Tools<br/><br/>
     
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham&hide_border=true&card_width=600&bg_color=0D1117)](https://git.io/streak-stats)
     
- <h1>Most Used Languages 👓</h1>
-    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-1-3&layout=compact&langs_count=5&bg_color=0D1117&hide_title=true&card_width=600&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
  <h1>Contribution Graph</h1>
     
