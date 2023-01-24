@@ -6,7 +6,7 @@
  - 🌱 I’m currently learning **Data analysis** 
  - 👯 I’m looking to collaborate on **Web development with React and Django** 
  - 📫 How to reach me:<ul> <li >Gmail:**bhumikamange13@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/bhumika-mange-44009b218/**</li></ul>
- - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
+ - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
  - ⚡ Fun fact: I can spend my entire day watching series 😉
  - 🏆 2nd runner up at Codebash -- competitive programming event .
  - 🥇 1st runner up at unscript rookee's 24hrs national level hackathon.
