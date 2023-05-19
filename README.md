@@ -3,12 +3,12 @@
 
 
  - 🔭 I’m currently working on **Web development** 
- - 🌱 I’m currently learning **Data analysis** 
- - 👯 I’m looking to collaborate on **Web development with React and Django** 
+ - 👯 I’m looking to collaborate on **Web development with React and Node** 
  - 📫 How to reach me:<ul> <li >Gmail:**bhumikamange13@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/bhumika-mange-44009b218/**</li></ul>
  - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
  - ⚡ Fun fact: I can spend my entire day watching series 😉
- - 🏆 2nd runner up at Codebash -- competitive programming event .
+ - 🏆 Winner of SPIT and TIAA hackathon
+ - 🏆 2nd runner up at Codebash -- competitive programming event , Inspect Element hackathon and COC hackathon.
  - 🥇 1st runner up at unscript rookee's 24hrs national level hackathon.
  - 🥇 BEST PITCH at LOC 24hrs national level hackathon.
  - 🥇 2nd runner up at unicode 72hrs hackathon .
@@ -74,10 +74,7 @@ Office Tools<br/><br/>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika-1-3&theme=gotham&hide_border=true&card_width=600&bg_color=0D1117)](https://git.io/streak-stats)
     
 
- <h1>Contribution Graph</h1>
-    
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhumika-1-3&theme=gotham&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- <div/>
+
  
     Hacktoberfest Contribution 
   [![@bhumikamange's Holopin board](https://holopin.me/bhumikamange)](https://holopin.io/@bhumikamange)
