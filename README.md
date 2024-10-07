@@ -2,16 +2,11 @@
    <h1 align='center'>BHUMIKA here 👑</h1>
 
 
- - 🔭 I’m currently working on **Web development** 
- - 👯 I’m looking to collaborate on **Web development with React and Node** 
+- 🎓 **Software engineer at JPMorgan Chase & Co.**.
  - 📫 How to reach me:<ul> <li >Gmail:**bhumikamange13@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/bhumika-mange-44009b218/**</li></ul>
- - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
  - ⚡ Fun fact: I can spend my entire day watching series 😉
- - 🏆 Winner of SPIT and TIAA hackathon
- - 🏆 2nd runner up at Codebash -- competitive programming event , Inspect Element hackathon and COC hackathon.
- - 🥇 1st runner up at unscript rookee's 24hrs national level hackathon.
- - 🥇 BEST PITCH at LOC 24hrs national level hackathon.
- - 🥇 2nd runner up at unicode 72hrs hackathon .
+ - 🏆 11x Hackathon winner
+
 <br/><br/>
 ### <h1 align='center'>🛠 TECH SKILLS</h1>
 <h3 >
@@ -78,3 +73,4 @@ Office Tools<br/><br/>
  
     Hacktoberfest Contribution 
   [![@bhumikamange's Holopin board](https://holopin.me/bhumikamange)](https://holopin.io/@bhumikamange)
+
